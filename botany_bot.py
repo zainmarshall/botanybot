@@ -8,7 +8,7 @@ import sciolyid
 
 COMMAND_STYLE = {
     "prefixes": ["p.", "p!", "pl!", "P.", "P"],
-    "pic_short_alias": "p",
+    "pic_short_alias": "d",
     "hint_short_alias": "h",
     "check_short_alias": "c",
     "skip_short_alias": "s"
@@ -19,7 +19,7 @@ BOT_CONFIG = {
     "bot_signature": "BOTany ID Bot",
     "prefixes": COMMAND_STYLE["prefixes"],
     "id_type": "diseases",
-    "short_id_type": COMMAND_STYLE["pic_short_alias"],
+    "short_id_type": "d",
     "support_server": "https://discord.gg/2HbshwGjnm",
     "source_link": "https://github.com/zainmarshall/botanybot",
     "name": "botanybot",
