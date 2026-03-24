@@ -1,0 +1,17 @@
+.git
+.venv
+venv
+__pycache__
+*.pyc
+*.egg-info
+build
+dist
+logs
+github_download
+water-quality-images
+deploy
+oracle.key
+oracle.pub
+setup.sh
+setup.sh.example
+*.zip

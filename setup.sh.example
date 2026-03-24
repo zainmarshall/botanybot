@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# Discord bot token from the Discord Developer Portal
+export token="YOUR_DISCORD_BOT_TOKEN"

@@ -1,4 +1,4 @@
-"""Botany Science Olympiad ID bot setup.
+"""Botanybot - Science Olympiad Botany ID practice bot.
 
 Run:
     source setup.sh
@@ -7,8 +7,8 @@ Run:
 import sciolyid
 
 COMMAND_STYLE = {
-    "prefixes": ["b.", "b!", "bt!", "B.", "B"],
-    "pic_short_alias": "b",
+    "prefixes": ["p.", "p!", "pl!", "P.", "P"],
+    "pic_short_alias": "p",
     "hint_short_alias": "h",
     "check_short_alias": "c",
     "skip_short_alias": "s"
@@ -16,13 +16,13 @@ COMMAND_STYLE = {
 
 BOT_CONFIG = {
     "bot_description": "Science Olympiad Botany ID practice bot.",
-    "bot_signature": "Botany ID Bot",
+    "bot_signature": "Botanybot ID Bot",
     "prefixes": COMMAND_STYLE["prefixes"],
     "id_type": "diseases",
     "short_id_type": COMMAND_STYLE["pic_short_alias"],
     "support_server": "https://discord.gg/2HbshwGjnm",
     "source_link": "https://github.com/zainmarshall/botanybot",
-    "name": "botany",
+    "name": "botanybot",
     "github_image_repo_url": "https://github.com/zainmarshall/botanybot-images.git",
     "invite": "https://discord.com/oauth2/authorize?client_id=1478213003886461048&permissions=116736&integration_type=0&scope=bot+applications.commands",
     "category_name": "grouping",
