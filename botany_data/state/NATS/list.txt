@@ -1,0 +1,25 @@
+nitrogen deficiency
+phosphorus deficiency
+potassium deficiency
+calcium deficiency
+magnesium deficiency
+sulfur deficiency
+aster yellows
+wilt
+fire blight
+chestnut blight
+late blight
+botrytis blight
+rice bacterial blight
+canker
+crown gall
+rot
+anthracnose
+dutch elm disease
+downy mildew
+powdery mildew
+rust
+scab
+smut
+mosaic
+root-knot nematode disease

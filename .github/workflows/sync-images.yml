@@ -1,0 +1,42 @@
+name: Sync images to botanybot-images
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - "botany-images/**"
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout botanybot
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Checkout botanybot-images
+        uses: actions/checkout@v4
+        with:
+          repository: zainmarshall/botanybot-images
+          token: ${{ secrets.IMAGES_REPO_PAT }}
+          path: _images_repo
+
+      - name: Sync image files
+        run: |
+          rsync -a --delete \
+            --exclude='.git' \
+            botany-images/ _images_repo/
+
+      - name: Commit and push if changed
+        run: |
+          cd _images_repo
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "sync images from botanybot @ ${{ github.sha }}"
+          git push

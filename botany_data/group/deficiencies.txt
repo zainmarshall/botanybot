@@ -1,0 +1,6 @@
+nitrogen deficiency,nitrogen
+phosphorus deficiency,phosphorus
+potassium deficiency,potassium
+calcium deficiency,calcium
+magnesium deficiency,magnesium
+sulfur deficiency,sulfur

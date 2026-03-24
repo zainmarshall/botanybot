@@ -1,0 +1,25 @@
+nitrogen deficiency,https://en.wikipedia.org/wiki/Nitrogen_deficiency
+phosphorus deficiency,https://en.wikipedia.org/wiki/Phosphorus_deficiency_(plant)
+potassium deficiency,https://en.wikipedia.org/wiki/Potassium_deficiency_(plants)
+calcium deficiency,https://en.wikipedia.org/wiki/Calcium_deficiency_(plant_disorder)
+magnesium deficiency,https://en.wikipedia.org/wiki/Magnesium_deficiency_(plants)
+sulfur deficiency,https://en.wikipedia.org/wiki/Sulfur_deficiency
+aster yellows,https://en.wikipedia.org/wiki/Aster_yellows
+wilt,https://en.wikipedia.org/wiki/Wilt
+fire blight,https://en.wikipedia.org/wiki/Fire_blight
+chestnut blight,https://en.wikipedia.org/wiki/Chestnut_blight
+late blight,https://en.wikipedia.org/wiki/Phytophthora_infestans
+botrytis blight,https://en.wikipedia.org/wiki/Botrytis_cinerea
+rice bacterial blight,https://en.wikipedia.org/wiki/Bacterial_blight_of_rice
+canker,https://en.wikipedia.org/wiki/Canker
+crown gall,https://en.wikipedia.org/wiki/Crown_gall
+rot,https://en.wikipedia.org/wiki/Rot
+anthracnose,https://en.wikipedia.org/wiki/Anthracnose
+dutch elm disease,https://en.wikipedia.org/wiki/Dutch_elm_disease
+downy mildew,https://en.wikipedia.org/wiki/Downy_mildew
+powdery mildew,https://en.wikipedia.org/wiki/Powdery_mildew
+rust,https://en.wikipedia.org/wiki/Rust_(fungus)
+scab,https://en.wikipedia.org/wiki/Apple_scab
+smut,https://en.wikipedia.org/wiki/Smut_(fungus)
+mosaic,https://en.wikipedia.org/wiki/Mosaic_virus
+root-knot nematode disease,https://en.wikipedia.org/wiki/Root-knot_nematode
