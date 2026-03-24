@@ -1,4 +1,4 @@
-"""Botanybot - Science Olympiad Botany ID practice bot.
+"""BOTany - Science Olympiad Botany ID practice bot.
 
 Run:
     source setup.sh
@@ -15,8 +15,8 @@ COMMAND_STYLE = {
 }
 
 BOT_CONFIG = {
-    "bot_description": "Science Olympiad Botany ID practice bot.",
-    "bot_signature": "Botanybot ID Bot",
+    "bot_description": "BOTany - Science Olympiad Botany ID practice bot.",
+    "bot_signature": "BOTany ID Bot",
     "prefixes": COMMAND_STYLE["prefixes"],
     "id_type": "diseases",
     "short_id_type": COMMAND_STYLE["pic_short_alias"],
@@ -24,7 +24,7 @@ BOT_CONFIG = {
     "source_link": "https://github.com/zainmarshall/botanybot",
     "name": "botanybot",
     "github_image_repo_url": "https://github.com/zainmarshall/botanybot-images.git",
-    "invite": "https://discord.com/oauth2/authorize?client_id=1478213003886461048&permissions=116736&integration_type=0&scope=bot+applications.commands",
+    "invite": "https://discord.com/oauth2/authorize?client_id=1486133080233218238&permissions=116736&integration_type=0&scope=bot+applications.commands",
     "category_name": "grouping",
     "category_aliases": {
         "deficiencies": ["deficiencies", "deficiency", "def", "nutrient", "nutrients"],

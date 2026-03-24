@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Deploy botanybot on the Raspberry Pi.
+# Deploy BOTany on the Raspberry Pi.
 #
 # Usage:
 #   ./deploy.sh              # pull main repo + restart bot (re-fetches images from botanybot-images)
