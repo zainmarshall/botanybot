@@ -1,16 +1,16 @@
 nitrogen deficiency,https://en.wikipedia.org/wiki/Nitrogen_deficiency
-phosphorus deficiency,https://en.wikipedia.org/wiki/Phosphorus_deficiency_(plant)
+phosphorus deficiency,https://en.wikipedia.org/wiki/Phosphorus_deficiency
 potassium deficiency,https://en.wikipedia.org/wiki/Potassium_deficiency_(plants)
 calcium deficiency,https://en.wikipedia.org/wiki/Calcium_deficiency_(plant_disorder)
 magnesium deficiency,https://en.wikipedia.org/wiki/Magnesium_deficiency_(plants)
-sulfur deficiency,https://en.wikipedia.org/wiki/Sulfur_deficiency
+sulfur deficiency,https://en.wikipedia.org/wiki/Sulfur
 aster yellows,https://en.wikipedia.org/wiki/Aster_yellows
 wilt,https://en.wikipedia.org/wiki/Wilt
 fire blight,https://en.wikipedia.org/wiki/Fire_blight
 chestnut blight,https://en.wikipedia.org/wiki/Chestnut_blight
 late blight,https://en.wikipedia.org/wiki/Phytophthora_infestans
 botrytis blight,https://en.wikipedia.org/wiki/Botrytis_cinerea
-rice bacterial blight,https://en.wikipedia.org/wiki/Bacterial_blight_of_rice
+rice bacterial blight,https://en.wikipedia.org/wiki/Xanthomonas_oryzae_pv._oryzae
 canker,https://en.wikipedia.org/wiki/Canker
 crown gall,https://en.wikipedia.org/wiki/Crown_gall
 rot,https://en.wikipedia.org/wiki/Rot
